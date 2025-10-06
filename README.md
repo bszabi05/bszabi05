@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Szabolcs  
-
-# 🚀 Code. Create. Conquer.  
-💡 Turning coffee into code, and ideas into reality.  
-🌍 Open to collaboration and new challenges.  
-
 ---
 
 ## 🛠️ Tech Stack  
