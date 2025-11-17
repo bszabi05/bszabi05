@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,cs,lua,nodejs,mysql,sqlite.assembly" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,cs,lua,nodejs,mysql,sqlite,assembly" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
