@@ -8,21 +8,19 @@
 
 
 
----
-
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,cs,lua,nodejs,mysql,html,css,js,php,assembly"/>
+  <!-- Languages & Technologies -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,cs,lua,nodejs,typescript,react,mysql,html,css,js,php,assembly"/>
   <br>
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bszabi05&show_icons=true&theme=tokyonight" height="180em" />
