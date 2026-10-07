@@ -38,4 +38,6 @@
   <a href="https://www.linkedin.com/in/bszabi05/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://gitlab.com/bszabi05/">
+    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>  </a>
 </p>
